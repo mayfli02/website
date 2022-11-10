@@ -1,0 +1,266 @@
+h1{
+    color: White;
+    font-size: 100px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* home page header */
+
+
+.bioheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+/* page headers */
+
+/* h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    display:flex;
+    justify-content: center;
+} */
+
+/* p {color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin:20px;
+    margin-bottom: 100px;
+    display:flex;
+    padding-left: 20px;
+} */
+
+
+#navbar{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+
+#navbar a{
+    padding-top:6%;
+    background-color:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: white;
+    text-decoration:none;
+}
+
+#navbar a:hover{
+    color:greenyellow;
+}
+
+
+.background {
+    background-image: url("mh_crouched.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+    width: auto;
+}
+
+
+a:hover { 
+    color:greenyellow;;
+  }
+
+  
+.caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:white;
+    display:flex;
+    justify-content:left;
+    padding-left: 645px;
+}
+
+.paraheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:white;
+    margin: 80px;
+    display: flex;
+    justify-content: left;
+}
+
+.covintro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+/* .image{
+    width:80%;
+} */
+
+/* .home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    text-decoration:none;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+} */
+
+.list a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-decoration:none;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* List on contents page */
+
+/* .bio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color:white;
+    display: flex;
+    justify-content: left;
+    text-decoration: none;
+    padding-bottom: 20px;
+} */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  /* for profile image, about me */
+
+
+  .imagemadw {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  
+  .imagecmad {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+  .imagemad {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+/* 
+.image2{
+    width: 20%;
+    display:flex;
+    justify-content: center;
+} */
+
+/* 
+.whoolton{
+    width: 30%;
+    display:flex;
+    justify-content: center;
+} */
+
+/* .madhatter{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:white;
+    display:flex;
+    justify-content: center;
+    text-decoration:none;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+} */
+/* 
+.teapartyheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+} */
+/* 
+.teaparty{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color:white;
+    display: flex;
+    justify-content: left;
+    padding-bottom: 20px;
+} */
+
+/* .teaparty a{
+display:flex'
+flex-direction: column;
+} */
+
+.contactme{
+    display:flex;
+    justify-content:space-evenly
+}
+
+.contactme a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    color:white;
+    /* display: flex;
+    justify-content: center; */
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-decoration:none;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+    /* background-color:darkgray */
+
+
+a:hover { 
+    color:greenyellow;;
+  }
+
+
+
+
+
